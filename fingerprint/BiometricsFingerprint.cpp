@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.xiaomi_jasmine_sprout"
+#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.xiaomi_wayne-common"
 
 #include <hardware/hw_auth_token.h>
 

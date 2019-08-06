@@ -16,9 +16,9 @@
 cc_binary {
     relative_install_path: "hw",
     defaults: ["hidl_defaults"],
-    name: "android.hardware.light@2.0-service.xiaomi_jasmine_sprout",
+    name: "android.hardware.light@2.0-service.xiaomi_wayne-common",
     proprietary: true,
-    init_rc: ["android.hardware.light@2.0-service.xiaomi_jasmine_sprout.rc"],
+    init_rc: ["android.hardware.light@2.0-service.xiaomi_wayne-common.rc"],
     srcs: ["service.cpp", "Light.cpp"],
     shared_libs: [
         "libhardware",
