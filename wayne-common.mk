@@ -21,7 +21,7 @@
 # definition file).
 #
 
-$(call inherit-product, vendor/xiaomi/wayne-common/wayne-common-vendor.mk)
+$(call inherit-product, vendor/xiaomi/sdm660-common/sdm660-common-vendor.mk)
 
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
