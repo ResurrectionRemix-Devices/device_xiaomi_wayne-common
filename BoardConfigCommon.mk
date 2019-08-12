@@ -237,5 +237,6 @@ ifeq ($(HOST_OS),linux)
   endif
 endif
 
+
 # inherit from the proprietary version
--include vendor/xiaomi/sdm660-common/BoardConfigVendor.mk
+-include vendor/xiaomi/wayne-common/BoardConfigVendor.mk
